@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.b6a296b5b99e96515f746e266e187987.js"
+  "/precache-manifest.cb40f7a33d7e1a4227195aa2d8dd4b6f.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vue-travis-ci-no-history"});
