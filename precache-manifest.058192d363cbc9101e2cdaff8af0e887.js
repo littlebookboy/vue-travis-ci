@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/vue-travis-ci/js/about.af146977.js"
   },
   {
-    "revision": "06b0b6e15c740140e0c0",
+    "revision": "2d845967fdc1ada1a79f",
     "url": "/vue-travis-ci/css/app.b5342362.css"
   },
   {
-    "revision": "06b0b6e15c740140e0c0",
-    "url": "/vue-travis-ci/js/app.3e002873.js"
+    "revision": "2d845967fdc1ada1a79f",
+    "url": "/vue-travis-ci/js/app.9e5db657.js"
   },
   {
     "revision": "9562f49a44ac4a7992bc",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/vue-travis-ci/img/logo.82b9c7a5.png"
   },
   {
-    "revision": "64679084ce79dce573a626e71ed5bccb",
+    "revision": "30ee5c1bb57ccb091bbf4e05d00a0531",
     "url": "/vue-travis-ci/index.html"
   },
   {
